@@ -1,5 +1,5 @@
 # OnPlayerTeleport
-Useful for detecting if player use Health/Armour Hack (99% accurate af)
+This include detects a player who uses Teleport hacks, you can do what ever you want underneath OnPlayerTeleport callback, OnPlayerTeleport is called when the include detects a player use teleport hack also can detect if player using fly hack or airbreak.
 
 ## Example
 
@@ -24,6 +24,6 @@ public OnPlayerTeleport(playerid, type, Float:distance)
  ```
  
  ## Credits
-Emmet_ - optp.inc  
+Emmet_ - Original optp.inc  
 Y_Less - YSI\y_bit
  
